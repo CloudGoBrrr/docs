@@ -6,3 +6,5 @@
 - Development
 
   - [How to Contribute](chapters/development/contribute.md)
+
+- [Changelog](CHANGELOG.md)
