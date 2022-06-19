@@ -10,6 +10,6 @@
 
 <div align="center">
 
-![Screenshot](_media/screenshot.png ":size=900")
+![Screenshot](_images/screenshot.png ":size=900")
 
 </div>
