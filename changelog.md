@@ -5,7 +5,7 @@
 - Renaming AuthTokens to sessions (WIP)
 - Renaming sessions (WIP)
 
-### 0.0.3 (Planned)
+### 0.0.3
 
 - Folder uploading
 - Better naming
