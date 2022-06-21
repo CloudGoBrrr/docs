@@ -1,9 +1,10 @@
 # Changelog
 
-### 0.0.4 (Planned)
+### 0.0.4
 
-- Renaming AuthTokens to sessions (WIP)
-- Renaming sessions (WIP)
+- Renaming AuthTokens to sessions
+- Renaming sessions
+- Fixed WebDAV URL Bug
 
 ### 0.0.3
 
