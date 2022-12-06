@@ -1,5 +1,12 @@
 # Changelog
 
+### 0.0.6
+
+- Added multiarch builds for backend
+- New CI for building
+- Backend: Http bindings
+- Frontend: Removed Axios
+
 ### 0.0.4
 
 - Renaming AuthTokens to sessions
